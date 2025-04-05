@@ -4,7 +4,7 @@ import os
 import time
 
 
-API_KEY = "YOUR_API_TOKEN"
+API_KEY = "8018352396:AAFWQoQ9FTNTsiXcYo0_CpIJdjN8oAKbWJw"
 
 bot = telebot.TeleBot(API_KEY)
 
