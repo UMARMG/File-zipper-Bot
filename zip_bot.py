@@ -6,7 +6,7 @@ import time
 
 API_KEY = "8018352396:AAFWQoQ9FTNTsiXcYo0_CpIJdjN8oAKbWJw"
 
-bot = telebot.TeleBot(API_KEY)
+bot = telebot.TeleBot(8018352396:AAFWQoQ9FTNTsiXcYo0_CpIJdjN8oAKbWJw)
 
 global messageVar
 foldername = ""
